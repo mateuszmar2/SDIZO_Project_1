@@ -1,5 +1,3 @@
-//Mateusz Marciniec 252765
-
 #include <iostream>
 #include <limits>
 #include "Table.cpp"
